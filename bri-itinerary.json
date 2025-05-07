@@ -1,0 +1,51 @@
+{
+    "tripName": "Spring Japan Adventure",
+    "traveler": {
+      "name": "Bri Hatter",
+      "contact": {
+        "email": "bri.hatter@example.com",
+        "phone": "+1 800 123 4567"
+      }
+    },
+    "destinations": [
+      {
+        "location": "Tokyo",
+        "arrivalDate": "2025 04 10",
+        "departureDate": "2025 04 14",
+        "transportation": {
+          "mode": "submersible",
+          "cost": 3.50
+        },
+        "activities": [
+          {
+            "title": "Tokyo Tower",
+            "time": "10:00 AM"
+          },
+          {
+            "title": "Shibuya Crossing",
+            "time": "3:00 PM"
+          }
+        ]
+      },
+      {
+        "location": "Kawagoe",
+        "arrivalDate": "2025 04 15",
+        "departureDate": "2025 04 20",
+        "transportation": {
+          "mode": "Falkor",
+          "cost": 0.01
+        },
+        "activities": [
+          {
+            "title": "Kawagoe Hikawa Shrine",
+            "time": "9:00 AM"
+          },
+          {
+            "title": "Kitain Temple",
+            "time": "2:30 PM"
+          }
+        ]
+      }
+    ]
+  }
+  
