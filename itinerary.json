@@ -1,0 +1,43 @@
+{
+    "tripName": "Kevin Conquers the World",
+    "traveler": {
+      "name": "Kevin Edwards",
+      "contact": {
+        "email": "kevin.edwards@edwardskevin.com",
+        "phone": "+1-555-867-5309"
+      }
+    },
+    "destinations": [
+      {
+        "location": "Kathmandu, Nepal",
+        "arrivalDate": "2025-06-23",
+        "departureDate": "2025-06-27",
+        "activities": [
+          {
+            "title": "The Biggest Ball of Twine in the World",
+            "time": "11:17 AM"
+          },
+          {
+            "title": "Meeting With the President of Nepal",
+            "time": "7:22 PM"
+          }
+        ]
+      },
+      {
+        "location": "Electric Avenue, Eddy Grant City, Florida",
+        "arrivalDate": "2025-07-20",
+        "departureDate": "2025-07-24",
+        "activities": [
+          {
+            "title": "Subway",
+            "time": "11:11 AM"
+          },
+          {
+            "title": "An Actual Subway",
+            "time": "2:33 PM"
+          }
+        ]
+      }
+    ]
+  }
+  
